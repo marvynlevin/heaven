@@ -50,10 +50,12 @@
 ## Histoire
 - **Synopsis** : Kady, une épéiste hors pair, lutte contre Myrtis pour la domination du monde.
 - **Personnages Principaux** :
-  - Kady ![Personages](./assets/player/kady.png)
-  - Gabriel
-  - Eris
-  - Myrtis
+  - Kady ![1](./characters/kady1.png) ![2](./characters/kady2.png) ![3](./characters/kady3.png) ![4](./characters/kady4.png) ![5](./characters/kady5.png) ![6](./characters/kady6.png) ![7](./characters/kady7.png) ![8](./characters/kady8.png) ![9](./characters/kady9.png)
+  - Flocon ![1](./characters/flocon.png)
+  - Gabriel  ![1](./characters/gabriel1.png)
+  - Eris ![1](./characters/eris1.png) ![2](./characters/eris2.png) ![3](./characters/eris3.png)
+  - Cupidus ![1](./characters/cupidus1.png)
+  - Myrtis ![1](./characters/myrtis1.png)
 
 ## Concept Graphique
 - **Graphismes et Cartes** : ![Map](./map/start_map2.png)
