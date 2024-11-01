@@ -1,4 +1,5 @@
 # Équipe Heaven - Projet NSI T3
+![logo Heaven](./docs/logos/logoHeavenMono.jpg)
 
 ## Informations Équipe
 - **Membres** :
