@@ -1,4 +1,4 @@
-# Équipe Heaven - Projet NSI T3
+# Équipe Heaven - Projet NSI T3 - 01/10/2022 25/05/2023
 ![logo Heaven](./docs/logos/logoHeavenMono.png)
 
 ## Informations Équipe
@@ -6,7 +6,7 @@
   - LEVIN Marvyn
   - MORRETI Tony
   - COLIN Cédric
-- **Classe** : T6
+- **Classe** : Terminale 6
 - **Langages Utilisés** :
   - Python 3.7.10 (Pygame, Maths, Random, Typing, Enum, Json)
   - Rust 1.67.1 (en cas de fonctionnalités avancées)
