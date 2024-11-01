@@ -50,13 +50,13 @@
 ## Histoire
 - **Synopsis** : Kady, une épéiste hors pair, lutte contre Myrtis pour la domination du monde.
 - **Personnages Principaux** :
-  - Kady
+  - Kady ![Personages](./assets/player/kady.png)
   - Gabriel
   - Eris
   - Myrtis
 
 ## Concept Graphique
-- **Graphismes et Cartes** : ![Map](./map/start_map2.png) ![Personages](./assets/player/kady.png)
+- **Graphismes et Cartes** : ![Map](./map/start_map2.png)
 
 ## Instructions de Lancement
 
