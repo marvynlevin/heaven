@@ -1,4 +1,4 @@
-# Équipe Heaven - Projet NSI T3 - 01/10/2022 25/05/2023
+# Équipe Heaven - Projet NSI Terminale3 Heaven - 01/10/2022 25/05/2023
 ![logo Heaven](./docs/logos/logoHeavenMono.png)
 
 ## Informations Équipe
